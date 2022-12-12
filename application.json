@@ -3,6 +3,10 @@
     {
       "id": "Obligors",
       "isDefault": true
+    },
+    {
+      "id": "Other_Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
