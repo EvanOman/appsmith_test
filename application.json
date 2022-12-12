@@ -7,6 +7,10 @@
     {
       "id": "Other_Page",
       "isDefault": false
+    },
+    {
+      "id": "New_New_Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
